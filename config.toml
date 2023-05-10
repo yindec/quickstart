@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+
+# 设置默认语言（定义存疑）'zh'是中文，'en'是英语
+
+defaultContentLanguage = 'zh'
+
+[languages.zh]
+  languageCode = 'zh-cn'
+
+[languages.en]
+  languageCode = 'en-us'
